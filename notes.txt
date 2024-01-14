@@ -1,3 +1,8 @@
 browser will execute html code line by line
 
 first create html then apply styles using css
+
+IN css styles will be applied according to specificity 
+
+tag selector has less specificity then class selector 
+class selector has less specificity then ID selector 
