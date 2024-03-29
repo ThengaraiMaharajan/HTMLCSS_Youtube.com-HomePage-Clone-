@@ -6,3 +6,19 @@ IN css styles will be applied according to specificity
 
 tag selector has less specificity then class selector 
 class selector has less specificity then ID selector 
+
+
+htlm has 3 types of element
+1) block
+blcok element takes entire line
+2) inline block
+only take the space it needs too
+3) inline element
+appear within line of text
+
+div => division
+div can contain any other elements inside
+
+nested layout techniques
+1) vertical
+2) horizontal
