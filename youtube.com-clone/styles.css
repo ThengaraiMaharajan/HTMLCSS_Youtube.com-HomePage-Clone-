@@ -40,6 +40,7 @@ p{
 }
 .thumbnail-row{
     margin-bottom: 12px;
+    position: relative;
 }
 .video-author , .video-stats{
     font-size : 12px;
@@ -153,4 +154,16 @@ margin-top: 4px;
     top: 55px;
     background-color: #ffffff;
     width: 75px;
+}
+
+.video-time{
+    background-color: black;
+    color: #fff;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-family: Roboto, Arial;
+    font-weight: 500;
+    padding: 3px;
+    border-radius: 3px;
 }
